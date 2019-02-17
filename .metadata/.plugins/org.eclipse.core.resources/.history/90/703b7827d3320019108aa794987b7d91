@@ -1,0 +1,10 @@
+package excel;
+
+public class TestPoi {
+
+	public static void main(String[] args) {
+		System.out.println("Programming with Eclipse is easy!");
+
+	}
+
+}
